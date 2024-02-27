@@ -48,7 +48,6 @@ ul {
 /* Navigation */
 .navigation-pages-item-link {
   font-weight: 500;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--dark-color);
@@ -61,8 +60,6 @@ ul {
 }
 
 .main-contacts-item-link {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--text-color);
@@ -75,16 +72,14 @@ ul {
 }
 
 /* Headings and text */
-.heading-1 {
-  font-weight: 700;
+.heading-one {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
 }
 
-.heading-2 {
-  font-weight: 700;
+.heading-two {
   font-size: 36px;
   line-height: 1.11112;
   letter-spacing: 0.02em;
@@ -92,7 +87,7 @@ ul {
   text-align: center;
 }
 
-.heading-3 {
+.heading-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -140,7 +135,6 @@ ul {
   border-radius: 4px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
